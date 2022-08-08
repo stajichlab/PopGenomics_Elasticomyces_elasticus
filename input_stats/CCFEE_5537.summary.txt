@@ -1,0 +1,13 @@
+java -ea -Xms300m -cp /opt/linux/rocky/8.x/x86_64/pkgs/BBMap/38.95/current/ jgi.ReformatReads in=input/CCFEE_5537_R1.fastq.gz in2=input/CCFEE_5537_R2.fastq.gz bhist=input_stats/CCFEE_5537.bhist.txt
+Executing jgi.ReformatReads [in=input/CCFEE_5537_R1.fastq.gz, in2=input/CCFEE_5537_R2.fastq.gz, bhist=input_stats/CCFEE_5537.bhist.txt]
+
+Set base content histogram output to input_stats/CCFEE_5537.bhist.txt
+No output stream specified.  To write to stdout, please specify 'out=stdout.fq' or similar.
+Set INTERLEAVED to false
+Input is being processed as paired
+Input:                  	45561424 reads          	6463359725 bases
+Output:                 	45561424 reads (100.00%) 	6463359725 bases (100.00%)
+
+Time:                         	69.132 seconds.
+Reads Processed:      45561k 	659.05k reads/sec
+Bases Processed:       6463m 	93.49m bases/sec
