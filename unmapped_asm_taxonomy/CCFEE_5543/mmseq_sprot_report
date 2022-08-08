@@ -1,0 +1,429 @@
+1.6340	15	15	no rank	0	unclassified
+98.3660	903	4	no rank	1	root
+97.9303	899	41	no rank	131567	  cellular organisms
+82.7887	760	56	superkingdom	2759	    Eukaryota
+74.8366	687	19	clade	33154	      Opisthokonta
+69.6078	639	1	kingdom	4751	        Fungi
+69.4989	638	11	subkingdom	451864	          Dikarya
+67.6471	621	37	phylum	4890	            Ascomycota
+56.5359	519	10	clade	716545	              saccharomyceta
+48.6928	447	2	subphylum	147538	                Pezizomycotina
+48.3660	444	104	clade	716546	                  leotiomyceta
+18.5185	170	0	class	147545	                    Eurotiomycetes
+18.5185	170	45	subclass	451871	                      Eurotiomycetidae
+11.6558	107	3	order	5042	                        Eurotiales
+11.3290	104	8	family	1131492	                          Aspergillaceae
+9.1503	84	28	genus	5052	                            Aspergillus
+2.0697	19	4	subgenus	2720871	                              Aspergillus subgen. Circumdati
+0.5447	5	0	species	5062	                                Aspergillus oryzae
+0.5447	5	5	strain	510516	                                  Aspergillus oryzae RIB40
+0.4357	4	1	species	5061	                                Aspergillus niger
+0.3268	3	3	strain	425011	                                  Aspergillus niger CBS 513.88
+0.3268	3	0	species	5059	                                Aspergillus flavus
+0.3268	3	3	strain	332952	                                  Aspergillus flavus NRRL3357
+0.2179	2	2	species	33178	                                Aspergillus terreus
+0.1089	1	0	species	5053	                                Aspergillus aculeatus
+0.1089	1	1	strain	690307	                                  Aspergillus aculeatus ATCC 16872
+1.7429	16	0	subgenus	2720870	                              Aspergillus subgen. Nidulantes
+1.7429	16	1	species	162425	                                Aspergillus nidulans
+1.6340	15	15	strain	227321	                                  Aspergillus nidulans FGSC A4
+1.7429	16	0	subgenus	2720872	                              Aspergillus subgen. Fumigati
+1.7429	16	0	species	746128	                                Aspergillus fumigatus
+1.7429	16	16	strain	330879	                                  Aspergillus fumigatus Af293
+0.4357	4	4	species	41736	                              Aspergillus rugulosus
+0.1089	1	1	species	5067	                              Aspergillus parasiticus
+1.1983	11	2	genus	5073	                            Penicillium
+0.5447	5	5	species	36650	                              Penicillium aethiopicum
+0.1089	1	1	species	5077	                              Penicillium citrinum
+0.1089	1	1	species	69488	                              Penicillium simplicissimum
+0.1089	1	1	species	69781	                              Penicillium oxalicum
+0.1089	1	1	species	1131482	                              Penicillium brefeldianum
+0.1089	1	1	genus	5097	                            Monascus
+1.9608	18	0	order	33183	                        Onygenales
+1.8519	17	3	family	34384	                          Arthrodermataceae
+1.5251	14	0	genus	5550	                            Trichophyton
+1.5251	14	0	species	63400	                              Trichophyton benhamiae
+1.5251	14	14	strain	663331	                                Trichophyton benhamiae CBS 112371
+0.1089	1	0	family	299071	                          Ajellomycetaceae
+0.1089	1	0	genus	5036	                            Histoplasma
+0.1089	1	0	no rank	2617678	                              unclassified Histoplasma
+0.1089	1	1	species	2059318	                                Histoplasma mississippiense (nom. inval.)
+14.8148	136	8	clade	715989	                    sordariomyceta
+13.2898	122	2	class	147550	                      Sordariomycetes
+8.2789	76	2	subclass	222544	                        Sordariomycetidae
+8.0610	74	3	order	5139	                          Sordariales
+5.5556	51	0	family	2609812	                            Podosporaceae
+5.5556	51	0	genus	5144	                              Podospora
+5.5556	51	47	species	2587412	                                Podospora anserina
+0.4357	4	4	strain	515849	                                  Podospora anserina S mat+
+1.8519	17	0	family	5148	                            Sordariaceae
+1.7429	16	0	genus	5140	                              Neurospora
+1.7429	16	0	species	5141	                                Neurospora crassa
+1.7429	16	16	strain	367110	                                  Neurospora crassa OR74A
+0.1089	1	0	genus	5146	                              Sordaria
+0.1089	1	1	species	573841	                                Sordaria araneosa
+0.3268	3	0	family	35718	                            Chaetomiaceae
+0.3268	3	0	genus	5149	                              Chaetomium
+0.2179	2	0	species	209285	                                Chaetomium thermophilum
+0.2179	2	0	varietas	285224	                                  Chaetomium thermophilum var. thermophilum
+0.2179	2	2	strain	759272	                                    Chaetomium thermophilum var. thermophilum DSM 1495
+0.1089	1	0	species	38033	                                Chaetomium globosum
+0.1089	1	1	strain	306901	                                  Chaetomium globosum CBS 148.51
+4.6841	43	8	subclass	222543	                        Hypocreomycetidae
+3.8126	35	0	order	5125	                          Hypocreales
+1.7429	16	0	family	110618	                            Nectriaceae
+1.7429	16	0	genus	5506	                              Fusarium
+1.1983	11	0	species group	232080	                                Fusarium solani species complex
+1.1983	11	11	species	2747968	                                  Fusarium vanettenii
+0.5447	5	0	species group	569360	                                Fusarium sambucinum species complex
+0.5447	5	0	species	5518	                                  Fusarium graminearum
+0.5447	5	5	strain	229533	                                    Fusarium graminearum PH-1
+0.7625	7	0	family	5129	                            Hypocreaceae
+0.7625	7	0	genus	5543	                              Trichoderma
+0.5447	5	0	species	51453	                                Trichoderma reesei
+0.4357	4	4	strain	1344414	                                  Trichoderma reesei RUT C-30
+0.1089	1	1	strain	431241	                                  Trichoderma reesei QM6a
+0.1089	1	0	species	29875	                                Trichoderma virens
+0.1089	1	1	strain	413071	                                  Trichoderma virens Gv29-8
+0.1089	1	0	species	63577	                                Trichoderma atroviride
+0.1089	1	1	strain	452589	                                  Trichoderma atroviride IMI 206040
+0.4357	4	1	family	34397	                            Clavicipitaceae
+0.2179	2	0	genus	5112	                              Epichloe
+0.1089	1	1	species	5050	                                Epichloe uncinata
+0.1089	1	0	species	35717	                                Epichloe festucae
+0.1089	1	1	strain	877507	                                  Epichloe festucae Fl1
+0.1089	1	0	genus	5529	                              Metarhizium
+0.1089	1	0	species	500148	                                Metarhizium brunneum
+0.1089	1	1	strain	1276141	                                  Metarhizium brunneum ARSEF 3297
+0.4357	4	0	family	1667166	                            Stachybotryaceae
+0.4357	4	0	genus	1859696	                              Albifimbria
+0.4357	4	4	species	1859699	                                Albifimbria verrucaria
+0.3268	3	0	family	474943	                            Cordycipitaceae
+0.3268	3	0	genus	5581	                              Beauveria
+0.3268	3	0	species	176275	                                Beauveria bassiana
+0.3268	3	3	strain	655819	                                  Beauveria bassiana ARSEF 2860
+0.1089	1	0	family	474942	                            Ophiocordycipitaceae
+0.1089	1	0	genus	1052105	                              Purpureocillium
+0.1089	1	1	species	33203	                                Purpureocillium lilacinum
+0.1089	1	0	subclass	222545	                        Xylariomycetidae
+0.1089	1	0	order	37989	                          Xylariales
+0.1089	1	0	family	1812776	                            Sporocadaceae
+0.1089	1	0	genus	37840	                              Pestalotiopsis
+0.1089	1	0	species	393283	                                Pestalotiopsis fici
+0.1089	1	1	strain	1229662	                                  Pestalotiopsis fici W106-1
+0.6536	6	0	class	147548	                      Leotiomycetes
+0.6536	6	0	order	5178	                        Helotiales
+0.6536	6	1	family	28983	                          Sclerotiniaceae
+0.4357	4	0	genus	5179	                            Sclerotinia
+0.4357	4	1	species	5180	                              Sclerotinia sclerotiorum
+0.3268	3	3	isolate	665079	                                Sclerotinia sclerotiorum 1980 UF-70
+0.1089	1	0	genus	33196	                            Botrytis
+0.1089	1	0	species	40559	                              Botrytis cinerea
+0.1089	1	1	strain	332648	                                Botrytis cinerea B05.10
+3.7037	34	0	clade	715962	                    dothideomyceta
+3.7037	34	1	class	147541	                      Dothideomycetes
+1.9608	18	0	subclass	451868	                        Pleosporomycetidae
+1.9608	18	0	order	92860	                          Pleosporales
+1.9608	18	2	suborder	715340	                            Pleosporineae
+1.4161	13	0	family	28556	                              Pleosporaceae
+1.3072	12	0	genus	5502	                                Curvularia
+0.9804	9	9	species	5503	                                  Curvularia lunata
+0.3268	3	3	species	95742	                                  Curvularia clavata
+0.1089	1	0	genus	5598	                                Alternaria
+0.1089	1	0	section	2499237	                                  Alternaria sect. Alternaria
+0.1089	1	0	species group	187734	                                    Alternaria alternata complex
+0.1089	1	1	species	5599	                                      Alternaria alternata
+0.3268	3	0	family	5020	                              Phaeosphaeriaceae
+0.3268	3	0	genus	1351751	                                Parastagonospora
+0.3268	3	0	species	13684	                                  Parastagonospora nodorum
+0.3268	3	3	strain	321614	                                    Parastagonospora nodorum SN15
+1.6340	15	0	subclass	451867	                        Dothideomycetidae
+1.3072	12	0	order	2726947	                          Mycosphaerellales
+1.3072	12	0	family	93133	                            Mycosphaerellaceae
+0.6536	6	0	genus	131324	                              Pseudocercospora
+0.6536	6	0	species	1873960	                                Pseudocercospora fijiensis
+0.6536	6	6	strain	383855	                                  Pseudocercospora fijiensis CIRAD86
+0.6536	6	0	genus	242508	                              Dothistroma
+0.6536	6	6	species	64363	                                Dothistroma septosporum
+0.2179	2	0	order	2726946	                          Cladosporiales
+0.2179	2	0	family	452563	                            Cladosporiaceae
+0.2179	2	0	genus	5498	                              Cladosporium
+0.2179	2	2	species	29918	                                Cladosporium herbarum
+0.1089	1	0	order	45676	                          Myriangiales
+0.1089	1	0	family	40995	                            Elsinoaceae
+0.1089	1	0	genus	40996	                              Elsinoe
+0.1089	1	1	species	40997	                                Elsinoe fawcettii
+0.1089	1	0	class	189478	                  Orbiliomycetes
+0.1089	1	0	order	189479	                    Orbiliales
+0.1089	1	0	family	47021	                      Orbiliaceae
+0.1089	1	0	genus	47022	                        Orbilia
+0.1089	1	0	species	2813651	                          Orbilia oligospora
+0.1089	1	1	strain	756982	                            Orbilia oligospora ATCC 24927
+6.7538	62	0	subphylum	147537	                Saccharomycotina
+6.7538	62	0	class	4891	                  Saccharomycetes
+6.7538	62	5	order	4892	                    Saccharomycetales
+4.5752	42	5	family	4893	                      Saccharomycetaceae
+3.9216	36	0	genus	4930	                        Saccharomyces
+3.9216	36	4	species	4932	                          Saccharomyces cerevisiae
+3.4858	32	32	strain	559292	                            Saccharomyces cerevisiae S288C
+0.1089	1	0	genus	4910	                        Kluyveromyces
+0.1089	1	0	species	28985	                          Kluyveromyces lactis
+0.1089	1	1	strain	284590	                            Kluyveromyces lactis NRRL Y-1140
+1.3072	12	0	family	766764	                      Debaryomycetaceae
+1.3072	12	0	clade	1535325	                        Candida/Lodderomyces clade
+1.3072	12	0	genus	1535326	                          Candida
+1.1983	11	0	species	5476	                            Candida albicans
+1.1983	11	11	strain	237561	                              Candida albicans SC5314
+0.1089	1	1	species	5479	                            Candida maltosa
+0.2179	2	0	family	1156497	                      Pichiaceae
+0.2179	2	2	genus	461281	                        Ogataea
+0.1089	1	0	family	34353	                      Dipodascaceae
+0.1089	1	0	genus	4951	                        Yarrowia
+0.1089	1	0	species	4952	                          Yarrowia lipolytica
+0.1089	1	1	strain	284591	                            Yarrowia lipolytica CLIB122
+7.0806	65	0	subphylum	451866	              Taphrinomycotina
+6.9717	64	0	class	147554	                Schizosaccharomycetes
+6.9717	64	0	order	34346	                  Schizosaccharomycetales
+6.9717	64	0	family	4894	                    Schizosaccharomycetaceae
+6.9717	64	0	genus	4895	                      Schizosaccharomyces
+6.9717	64	0	species	4896	                        Schizosaccharomyces pombe
+6.9717	64	64	strain	284812	                          Schizosaccharomyces pombe 972h-
+0.1089	1	0	class	147553	                Pneumocystidomycetes
+0.1089	1	0	order	37987	                  Pneumocystidales
+0.1089	1	0	family	44281	                    Pneumocystidaceae
+0.1089	1	0	genus	4753	                      Pneumocystis
+0.1089	1	1	species	4754	                        Pneumocystis carinii
+0.6536	6	0	phylum	5204	            Basidiomycota
+0.6536	6	0	subphylum	5302	              Agaricomycotina
+0.6536	6	0	class	155619	                Agaricomycetes
+0.3268	3	0	no rank	355688	                  Agaricomycetes incertae sedis
+0.3268	3	0	order	5303	                    Polyporales
+0.1089	1	0	family	5317	                      Polyporaceae
+0.1089	1	0	genus	5324	                        Trametes
+0.1089	1	1	species	5325	                          Trametes versicolor
+0.1089	1	0	family	396331	                      Phanerochaetaceae
+0.1089	1	0	genus	2492674	                        Phanerodontia
+0.1089	1	1	species	2822231	                          Phanerodontia chrysosporium
+0.1089	1	0	family	2028217	                      Gelatoporiaceae
+0.1089	1	0	genus	98757	                        Gelatoporia
+0.1089	1	0	species	42742	                          Gelatoporia subvermispora
+0.1089	1	1	strain	914234	                            Gelatoporia subvermispora B
+0.3268	3	0	subclass	452333	                  Agaricomycetidae
+0.3268	3	0	order	5338	                    Agaricales
+0.3268	3	0	family	862241	                      Physalacriaceae
+0.3268	3	0	genus	41250	                        Strobilurus
+0.3268	3	3	species	41251	                          Strobilurus tenacellus
+3.1590	29	0	kingdom	33208	        Metazoa
+3.1590	29	1	clade	6072	          Eumetazoa
+3.0501	28	5	clade	33213	            Bilateria
+1.8519	17	0	clade	33511	              Deuterostomia
+1.8519	17	0	phylum	7711	                Chordata
+1.8519	17	0	subphylum	89593	                  Craniata
+1.8519	17	0	clade	7742	                    Vertebrata
+1.8519	17	0	clade	7776	                      Gnathostomata
+1.8519	17	0	clade	117570	                        Teleostomi
+1.8519	17	4	clade	117571	                          Euteleostomi
+1.4161	13	0	superclass	8287	                            Sarcopterygii
+1.4161	13	0	clade	1338369	                              Dipnotetrapodomorpha
+1.4161	13	0	clade	32523	                                Tetrapoda
+1.4161	13	1	clade	32524	                                  Amniota
+1.3072	12	0	class	40674	                                    Mammalia
+1.3072	12	0	clade	32525	                                      Theria
+1.3072	12	0	clade	9347	                                        Eutheria
+1.3072	12	4	clade	1437010	                                          Boreoeutheria
+0.8715	8	8	superorder	314146	                                            Euarchontoglires
+0.6536	6	0	clade	33317	              Protostomia
+0.6536	6	0	clade	1206794	                Ecdysozoa
+0.6536	6	0	clade	88770	                  Panarthropoda
+0.6536	6	0	phylum	6656	                    Arthropoda
+0.6536	6	0	clade	197563	                      Mandibulata
+0.6536	6	0	clade	197562	                        Pancrustacea
+0.6536	6	0	subphylum	6960	                          Hexapoda
+0.6536	6	0	class	50557	                            Insecta
+0.6536	6	0	clade	85512	                              Dicondylia
+0.6536	6	0	subclass	7496	                                Pterygota
+0.6536	6	0	infraclass	33340	                                  Neoptera
+0.6536	6	0	cohort	33392	                                    Endopterygota
+0.6536	6	0	order	7147	                                      Diptera
+0.6536	6	0	suborder	7203	                                        Brachycera
+0.6536	6	0	infraorder	43733	                                          Muscomorpha
+0.6536	6	0	clade	480118	                                            Eremoneura
+0.6536	6	0	clade	480117	                                              Cyclorrhapha
+0.6536	6	0	no rank	43738	                                                Schizophora
+0.6536	6	0	no rank	43741	                                                  Acalyptratae
+0.6536	6	0	superfamily	43746	                                                    Ephydroidea
+0.6536	6	0	family	7214	                                                      Drosophilidae
+0.6536	6	0	subfamily	43845	                                                        Drosophilinae
+0.6536	6	0	tribe	46877	                                                          Drosophilini
+0.6536	6	0	genus	7215	                                                            Drosophila
+0.6536	6	0	subgenus	32341	                                                              Sophophora
+0.6536	6	0	species group	32346	                                                                melanogaster group
+0.6536	6	0	species subgroup	32351	                                                                  melanogaster subgroup
+0.6536	6	6	species	7227	                                                                    Drosophila melanogaster
+1.8519	17	0	kingdom	33090	      Viridiplantae
+1.8519	17	0	phylum	35493	        Streptophyta
+1.8519	17	0	subphylum	131221	          Streptophytina
+1.8519	17	0	clade	3193	            Embryophyta
+1.8519	17	0	clade	58023	              Tracheophyta
+1.8519	17	0	clade	78536	                Euphyllophyta
+1.8519	17	0	clade	58024	                  Spermatophyta
+1.8519	17	0	class	3398	                    Magnoliopsida
+1.8519	17	6	clade	1437183	                      Mesangiospermae
+0.9804	9	0	clade	71240	                        eudicotyledons
+0.9804	9	0	clade	91827	                          Gunneridae
+0.9804	9	0	clade	1437201	                            Pentapetalae
+0.9804	9	0	clade	71275	                              rosids
+0.8715	8	0	clade	91836	                                malvids
+0.8715	8	0	order	3699	                                  Brassicales
+0.8715	8	0	family	3700	                                    Brassicaceae
+0.8715	8	0	tribe	980083	                                      Camelineae
+0.8715	8	0	genus	3701	                                        Arabidopsis
+0.8715	8	8	species	3702	                                          Arabidopsis thaliana
+0.1089	1	0	clade	91835	                                fabids
+0.1089	1	0	order	3744	                                  Rosales
+0.1089	1	0	family	3481	                                    Cannabaceae
+0.1089	1	0	genus	3484	                                      Humulus
+0.1089	1	1	species	3486	                                        Humulus lupulus
+0.2179	2	0	clade	4447	                        Liliopsida
+0.2179	2	0	subclass	1437197	                          Petrosaviidae
+0.1089	1	0	clade	4734	                            commelinids
+0.1089	1	0	order	38820	                              Poales
+0.1089	1	0	family	4479	                                Poaceae
+0.1089	1	0	clade	359160	                                  BOP clade
+0.1089	1	0	subfamily	147367	                                    Oryzoideae
+0.1089	1	0	tribe	147380	                                      Oryzeae
+0.1089	1	0	subtribe	1648021	                                        Oryzinae
+0.1089	1	0	genus	4527	                                          Oryza
+0.1089	1	0	species	4530	                                            Oryza sativa
+0.1089	1	1	no rank	39947	                                              Oryza sativa Japonica Group
+0.1089	1	0	order	73496	                            Asparagales
+0.1089	1	0	family	4747	                              Orchidaceae
+0.1089	1	0	subfamily	158332	                                Epidendroideae
+0.1089	1	0	tribe	158397	                                  Vandeae
+0.1089	1	0	subtribe	158424	                                    Aeridinae
+0.1089	1	0	genus	36459	                                      Phalaenopsis
+0.1089	1	0	species	212056	                                        Phalaenopsis aphrodite
+0.1089	1	1	subspecies	308872	                                          Phalaenopsis aphrodite subsp. formosana
+10.6754	98	17	superkingdom	2	    Bacteria
+4.1394	38	8	phylum	1224	      Proteobacteria
+2.6144	24	4	class	1236	        Gammaproteobacteria
+1.9608	18	1	order	91347	          Enterobacterales
+1.7429	16	8	family	543	            Enterobacteriaceae
+0.7625	7	0	genus	561	              Escherichia
+0.7625	7	4	species	562	                Escherichia coli
+0.3268	3	3	strain	83333	                  Escherichia coli K-12
+0.1089	1	0	no rank	2890311	              Klebsiella/Raoultella group
+0.1089	1	0	genus	570	                Klebsiella
+0.1089	1	0	species	573	                  Klebsiella pneumoniae
+0.1089	1	0	subspecies	72407	                    Klebsiella pneumoniae subsp. pneumoniae
+0.1089	1	1	strain	272620	                      Klebsiella pneumoniae subsp. pneumoniae MGH 78578
+0.1089	1	0	family	1903410	            Pectobacteriaceae
+0.1089	1	0	genus	122277	              Pectobacterium
+0.1089	1	0	species	29471	                Pectobacterium atrosepticum
+0.1089	1	1	strain	218491	                  Pectobacterium atrosepticum SCRI1043
+0.1089	1	0	order	72274	          Pseudomonadales
+0.1089	1	0	family	135621	            Pseudomonadaceae
+0.1089	1	0	genus	286	              Pseudomonas
+0.1089	1	0	species group	136841	                Pseudomonas aeruginosa group
+0.1089	1	0	species	287	                  Pseudomonas aeruginosa
+0.1089	1	1	strain	208964	                    Pseudomonas aeruginosa PAO1
+0.1089	1	0	order	135625	          Pasteurellales
+0.1089	1	0	family	712	            Pasteurellaceae
+0.1089	1	0	genus	713	              Actinobacillus
+0.1089	1	1	species	715	                Actinobacillus pleuropneumoniae
+0.2179	2	1	class	28211	        Alphaproteobacteria
+0.1089	1	0	order	356	          Hyphomicrobiales
+0.1089	1	0	family	82115	            Rhizobiaceae
+0.1089	1	0	no rank	227290	              Rhizobium/Agrobacterium group
+0.1089	1	0	genus	357	                Agrobacterium
+0.1089	1	1	species	373	                  Agrobacterium vitis
+0.2179	2	0	class	28216	        Betaproteobacteria
+0.2179	2	0	order	80840	          Burkholderiales
+0.2179	2	0	family	80864	            Comamonadaceae
+0.2179	2	0	genus	283	              Comamonas
+0.1089	1	1	species	285	                Comamonas testosteroni
+0.1089	1	0	no rank	2638500	                unclassified Comamonas
+0.1089	1	1	species	213664	                  Comamonas sp. NCIMB 9872
+0.1089	1	0	subphylum	68525	        delta/epsilon subdivisions
+0.1089	1	0	class	29547	          Epsilonproteobacteria
+0.1089	1	0	order	213849	            Campylobacterales
+0.1089	1	0	family	72293	              Helicobacteraceae
+0.1089	1	1	genus	209	                Helicobacter
+0.1089	1	0	class	1807140	        Acidithiobacillia
+0.1089	1	0	order	225057	          Acidithiobacillales
+0.1089	1	0	family	225058	            Acidithiobacillaceae
+0.1089	1	0	genus	119977	              Acidithiobacillus
+0.1089	1	1	species	1232575	                Acidithiobacillus ferridurans
+3.8126	35	2	clade	1783272	      Terrabacteria group
+2.6144	24	3	phylum	1239	        Firmicutes
+1.1983	11	1	class	91061	          Bacilli
+0.9804	9	2	order	1385	            Bacillales
+0.7625	7	1	family	186817	              Bacillaceae
+0.6536	6	0	genus	1386	                Bacillus
+0.6536	6	0	species group	653685	                  Bacillus subtilis group
+0.6536	6	1	species	1423	                    Bacillus subtilis
+0.5447	5	0	subspecies	135461	                      Bacillus subtilis subsp. subtilis
+0.5447	5	5	strain	224308	                        Bacillus subtilis subsp. subtilis str. 168
+0.1089	1	0	order	186826	            Lactobacillales
+0.1089	1	0	family	1300	              Streptococcaceae
+0.1089	1	0	genus	1301	                Streptococcus
+0.1089	1	0	species	1309	                  Streptococcus mutans
+0.1089	1	1	strain	210007	                    Streptococcus mutans UA159
+1.0893	10	5	class	186801	          Clostridia
+0.3268	3	0	order	186802	            Eubacteriales
+0.2179	2	1	family	216572	              Oscillospiraceae
+0.1089	1	0	genus	35829	                Acetivibrio
+0.1089	1	0	species	1515	                  Acetivibrio thermocellus
+0.1089	1	1	strain	203119	                    Acetivibrio thermocellus ATCC 27405
+0.1089	1	0	family	31979	              Clostridiaceae
+0.1089	1	1	genus	1485	                Clostridium
+0.2179	2	1	order	68295	            Thermoanaerobacterales
+0.1089	1	0	family	186814	              Thermoanaerobacteraceae
+0.1089	1	0	genus	249529	                Caldanaerobacter
+0.1089	1	0	species	911092	                  Caldanaerobacter subterraneus
+0.1089	1	0	subspecies	119072	                    Caldanaerobacter subterraneus subsp. tengcongensis
+0.1089	1	1	strain	273068	                      Caldanaerobacter subterraneus subsp. tengcongensis MB4
+0.9804	9	0	phylum	201174	        Actinobacteria
+0.9804	9	3	class	1760	          Actinomycetia
+0.3268	3	0	order	85004	            Bifidobacteriales
+0.3268	3	0	family	31953	              Bifidobacteriaceae
+0.3268	3	1	genus	1678	                Bifidobacterium
+0.2179	2	1	species	216816	                  Bifidobacterium longum
+0.1089	1	1	strain	206672	                    Bifidobacterium longum NCC2705
+0.3268	3	0	order	85007	            Corynebacteriales
+0.2179	2	0	family	85025	              Nocardiaceae
+0.2179	2	0	genus	1827	                Rhodococcus
+0.1089	1	0	species	132919	                  Rhodococcus jostii
+0.1089	1	1	strain	101510	                    Rhodococcus jostii RHA1
+0.1089	1	0	species group	2840174	                  Rhodococcus erythropolis group
+0.1089	1	1	species	1833	                    Rhodococcus erythropolis
+0.1089	1	0	family	1762	              Mycobacteriaceae
+0.1089	1	1	genus	1763	                Mycobacterium
+0.6536	6	0	clade	1783270	      FCB group
+0.6536	6	0	clade	68336	        Bacteroidetes/Chlorobi group
+0.6536	6	0	phylum	976	          Bacteroidetes
+0.5447	5	0	class	200643	            Bacteroidia
+0.5447	5	0	order	171549	              Bacteroidales
+0.4357	4	1	family	815	                Bacteroidaceae
+0.3268	3	0	genus	816	                  Bacteroides
+0.3268	3	3	species	817	                    Bacteroides fragilis
+0.1089	1	0	family	171551	                Porphyromonadaceae
+0.1089	1	0	genus	836	                  Porphyromonas
+0.1089	1	0	species	837	                    Porphyromonas gingivalis
+0.1089	1	1	strain	242619	                      Porphyromonas gingivalis W83
+0.1089	1	0	class	768503	            Cytophagia
+0.1089	1	1	order	768507	              Cytophagales
+0.1089	1	0	phylum	57723	      Acidobacteria
+0.1089	1	0	class	204432	        Acidobacteriia
+0.1089	1	0	order	332160	          Bryobacterales
+0.1089	1	0	family	332161	            Solibacteraceae
+0.1089	1	0	genus	332162	              Candidatus Solibacter
+0.1089	1	0	species	332163	                Candidatus Solibacter usitatus
+0.1089	1	1	isolate	234267	                  Candidatus Solibacter usitatus Ellin6076
+0.1089	1	0	phylum	200918	      Thermotogae
+0.1089	1	0	class	188708	        Thermotogae
+0.1089	1	0	order	2419	          Thermotogales
+0.1089	1	0	family	188709	            Thermotogaceae
+0.1089	1	0	genus	2335	              Thermotoga
+0.1089	1	0	species	2337	                Thermotoga neapolitana
+0.1089	1	1	strain	309803	                  Thermotoga neapolitana DSM 4359

@@ -1,0 +1,53 @@
+100.0000	6	0	no rank	1	root
+100.0000	6	0	no rank	131567	  cellular organisms
+50.0000	3	0	superkingdom	2	    Bacteria
+50.0000	3	0	clade	1783272	      Terrabacteria group
+33.3333	2	0	phylum	1239	        Firmicutes
+16.6667	1	0	class	91061	          Bacilli
+16.6667	1	0	order	1385	            Bacillales
+16.6667	1	0	family	90964	              Staphylococcaceae
+16.6667	1	0	genus	1279	                Staphylococcus
+16.6667	1	1	species	1283	                  Staphylococcus haemolyticus
+16.6667	1	0	class	186801	          Clostridia
+16.6667	1	1	order	68295	            Thermoanaerobacterales
+16.6667	1	0	phylum	201174	        Actinobacteria
+16.6667	1	0	class	1760	          Actinomycetia
+16.6667	1	0	order	85004	            Bifidobacteriales
+16.6667	1	0	family	31953	              Bifidobacteriaceae
+16.6667	1	0	genus	1678	                Bifidobacterium
+16.6667	1	0	species	216816	                  Bifidobacterium longum
+16.6667	1	1	strain	206672	                    Bifidobacterium longum NCC2705
+50.0000	3	0	superkingdom	2759	    Eukaryota
+33.3333	2	0	clade	33154	      Opisthokonta
+33.3333	2	0	kingdom	4751	        Fungi
+33.3333	2	0	subkingdom	451864	          Dikarya
+33.3333	2	0	phylum	4890	            Ascomycota
+33.3333	2	0	clade	716545	              saccharomyceta
+33.3333	2	0	subphylum	147538	                Pezizomycotina
+33.3333	2	1	clade	716546	                  leotiomyceta
+16.6667	1	0	class	147545	                    Eurotiomycetes
+16.6667	1	0	subclass	451871	                      Eurotiomycetidae
+16.6667	1	0	order	5042	                        Eurotiales
+16.6667	1	0	family	1131492	                          Aspergillaceae
+16.6667	1	0	genus	5052	                            Aspergillus
+16.6667	1	0	subgenus	2720870	                              Aspergillus subgen. Nidulantes
+16.6667	1	1	species	162425	                                Aspergillus nidulans
+16.6667	1	0	kingdom	33090	      Viridiplantae
+16.6667	1	0	phylum	35493	        Streptophyta
+16.6667	1	0	subphylum	131221	          Streptophytina
+16.6667	1	0	clade	3193	            Embryophyta
+16.6667	1	0	clade	58023	              Tracheophyta
+16.6667	1	0	clade	78536	                Euphyllophyta
+16.6667	1	0	clade	58024	                  Spermatophyta
+16.6667	1	0	class	3398	                    Magnoliopsida
+16.6667	1	0	clade	1437183	                      Mesangiospermae
+16.6667	1	0	clade	4447	                        Liliopsida
+16.6667	1	0	subclass	1437197	                          Petrosaviidae
+16.6667	1	0	order	73496	                            Asparagales
+16.6667	1	0	family	4747	                              Orchidaceae
+16.6667	1	0	subfamily	158332	                                Epidendroideae
+16.6667	1	0	tribe	158397	                                  Vandeae
+16.6667	1	0	subtribe	158424	                                    Aeridinae
+16.6667	1	0	genus	36459	                                      Phalaenopsis
+16.6667	1	0	species	212056	                                        Phalaenopsis aphrodite
+16.6667	1	1	subspecies	308872	                                          Phalaenopsis aphrodite subsp. formosana
