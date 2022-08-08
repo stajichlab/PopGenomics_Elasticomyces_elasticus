@@ -5,3 +5,9 @@ Set base content histogram output to input_stats/CCFEE_5966.bhist.txt
 No output stream specified.  To write to stdout, please specify 'out=stdout.fq' or similar.
 Set INTERLEAVED to false
 Input is being processed as paired
+Input:                  	67553498 reads          	9178049151 bases
+Output:                 	67553498 reads (100.00%) 	9178049151 bases (100.00%)
+
+Time:                         	184.519 seconds.
+Reads Processed:      67553k 	366.11k reads/sec
+Bases Processed:       9178m 	49.74m bases/sec
