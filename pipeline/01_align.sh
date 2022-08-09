@@ -8,8 +8,6 @@ module load java
 module load workspace/scratch
 MEM=32g
 
-TEMP=$SCRATCH
-
 if [ -f config.txt ]; then
   source config.txt
 fi

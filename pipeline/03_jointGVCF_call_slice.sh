@@ -32,15 +32,6 @@ fi
 # The $SCRATCH folder is automatically created on HPCC slurm jobs, and removed at end of process
 TEMPDIR=$SCRATCH
 
-# if you need to use this on another system you can try something like this
-#declare -x TEMPDIR=$TEMP/$USER/$$
-#cleanup() {
-	#echo "rm temp is: $TEMPDIR"
-#	rm -rf $TEMPDIR
-#}#
-# Set trap to ensure cleanupis stopped
-#trap "cleanup; rm -rf $TEMPDIR; exit" SIGHUP SIGINT SIGTERM EXIT
-
 if [ ! -f $REFGENOME.fai ]; then
     module load samtools
     samtools faidx $REFGENOME
